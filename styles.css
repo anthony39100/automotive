@@ -48,7 +48,13 @@
 }
 
 .bg-service-6 {
-  background-image: url("medias/background-pret-vehicule.jpg");
+  background-image: url("../medias/background-pret-vehicule.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.bg-service-5 {
+  background-image: url(../medias/bg-entretien.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -62,7 +68,7 @@
 }
 
 .h-300-px {
-  min-height: 300px;
+  min-height: 400px;
 }
 
 h1, h2 {
