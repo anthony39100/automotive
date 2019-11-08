@@ -4,8 +4,14 @@
     background-size: cover;
 }
 .bg-service-5{
-    background-image: url(medias/bg-entretien.jpg);
+    background-image: url("medias/bg-entretien.jpg");
     background-position: center;
+    background-size: cover;
+}
+
+.bg-service-4{
+    background-image: url("medias/mercedes-rouge.jpg");
+    background-position: start;
     background-size: cover;
 }
 
@@ -13,7 +19,8 @@
     min-height: 600px;
 }
 
- 
+
+
 .h-500-px{
     min-height: 500px;
     
