@@ -48,13 +48,13 @@
 }
 
 .bg-service-6 {
-  background-image: url("medias/background-pret-vehicule.jpg");
+  background-image: url("../medias/background-pret-vehicule.jpg");
   background-position: center;
   background-size: cover;
 }
 
 .bg-service-5 {
-  background-image: url(medias/bg-entretien.jpg);
+  background-image: url(../medias/bg-entretien.jpg);
   background-position: center;
   background-size: cover;
 }
