@@ -3,10 +3,30 @@
     background-position: center;
     background-size: cover;
 }
+
 .bg-service-5{
     background-image: url(medias/bg-entretien.jpg);
     background-position: center;
     background-size: cover;
+}
+
+.bg-service-1{
+    background-image: url(medias/bg-service-accueil.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-service-2{
+    background-image: url(medias/bg-service-essais.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-service-3{
+    background-image: url(medias/bg-service-financement.jpg);
+    background-position: center;
+    background-size: cover;
+    opacity: 0.6;
 }
 
 .h-600-px{
@@ -16,7 +36,7 @@
 
 .h-500-px{
     min-height: 500px;
-    
+
 }
 
 .h-300-px{
