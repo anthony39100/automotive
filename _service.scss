@@ -33,7 +33,6 @@
     min-height: 600px;
 }
 
-
 .h-500-px{
     min-height: 500px;
 
@@ -42,3 +41,29 @@
 .h-300-px{
     min-height: 300px;
 }
+
+
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) {
+    .display-col-service-image{
+        display: none;
+    }
+}
+
+// Small devices (landscape phones, less than 768px)
+@media (min-width: 576) and (max-width: 767.98px) { 
+    .display-col-service-image{
+        display: none;
+    }
+}
+
+@media (min-width: 768) and (max-width: 991.98px) {
+    .display-col-service-image{
+        display: none;
+    }
+}
+
+
+// @media (max-width: 1199.98px) {
+    
+// }
