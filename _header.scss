@@ -1,12 +1,32 @@
-navbar {
-    position: relative;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    -ms-flex-align: center;
-    align-items: center;
-    -ms-flex-pack: justify;
-    justify-content: space-between;
-    padding: .5rem 1rem;
+.bg-black{
+    background-color: #000000  !important;
+    background-color: #000000;
+
 }
+.image-taille{
+    width: 1920px;
+    height: 1080px;
+}
+.bg-carousel-2{
+    background-image: url("medias/Lamborghini-Concept-supercar-back-view-super-engine_1920x1080.jpg") ;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    }
+    .bg-carousel-3{
+        background-image: url("medias/car-2158284_1280.png") ;
+        background-size: cover;
+        background-position: center;
+        height: 700px;
+        }
+    .bg-carousel-1{
+        background-image: url("medias/image_slide1.png") ;
+        background-size: cover;
+        background-position: center;
+        height: 700px;
+        } 
+        .padding-top{
+            padding-top: 300px;
+        }
+        
+        

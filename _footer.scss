@@ -1,0 +1,21 @@
+$color-red:#ee2524;
+
+
+h1,h2 { 
+    color: $color-red; 
+}
+
+#map{ /* la carte DOIT avoir une hauteur sinon elle n'apparaît pas */
+    height:600px;
+    }
+
+.bg-footer{
+    background-image: url(medias/backgroundfooter.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-mid-black
+{
+    background-color: rgba(0, 0, 0, 0.80) !important;
+}

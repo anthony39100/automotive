@@ -1,0 +1,77 @@
+.bg-service-6{
+    background-image: url("medias/background-pret-vehicule.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-service-5{
+    background-image: url("medias/bg-entretien.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-service-1{
+    background-image: url(medias/bg-service-accueil.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-service-2{
+    background-image: url(medias/bg-service-essais.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-service-3{
+    background-image: url(medias/bg-service-financement.jpg);
+    background-position: center;
+    background-size: cover;
+    opacity: 0.6;
+}
+.bg-service-7{
+    background-image: url(medias/bg-service-assurance.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.h-600-px{
+    min-height: 600px;
+}
+
+
+
+
+.h-500-px{
+    min-height: 500px;
+
+}
+
+.h-300-px{
+    min-height: 300px;
+}
+
+
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) {
+    .display-col-service-image{
+        display: none;
+    }
+}
+
+// Small devices (landscape phones, less than 768px)
+@media (min-width: 576) and (max-width: 767.98px) { 
+    .display-col-service-image{
+        display: none;
+    }
+}
+
+@media (min-width: 768) and (max-width: 991.98px) {
+    .display-col-service-image{
+        display: none;
+    }
+}
+
+
+// @media (max-width: 1199.98px) {
+    
+// }
