@@ -10,11 +10,21 @@
     background-size: cover;
 }
 
+.bg-service-4{
+    background-image: url("medias/bg-mercedes-rouge.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
 .bg-service-1{
     background-image: url(medias/bg-service-accueil.jpg);
     background-position: center;
     background-size: cover;
 }
+
 
 .bg-service-2{
     background-image: url(medias/bg-service-essais.jpg);
@@ -57,6 +67,21 @@
     .display-col-service-image{
         display: none;
     }
+    
+.bg-carousel-2 {
+
+    height: 200px;
+  }
+  
+  .bg-carousel-3 {
+
+    height: 200px;
+  }
+  
+  .bg-carousel-1 {
+ 
+    height: 200px;
+  }
 }
 
 // Small devices (landscape phones, less than 768px)
