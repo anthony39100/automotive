@@ -38,6 +38,11 @@
     background-size: cover;
     opacity: 0.6;
 }
+.bg-service-7{
+    background-image: url(medias/bg-service-assurance.jpg);
+    background-position: center;
+    background-size: cover;
+}
 
 .h-600-px{
     min-height: 600px;
@@ -61,6 +66,21 @@
     .display-col-service-image{
         display: none;
     }
+    
+.bg-carousel-2 {
+
+    height: 200px;
+  }
+  
+  .bg-carousel-3 {
+
+    height: 200px;
+  }
+  
+  .bg-carousel-1 {
+ 
+    height: 200px;
+  }
 }
 
 // Small devices (landscape phones, less than 768px)
