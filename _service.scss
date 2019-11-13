@@ -16,15 +16,11 @@
     background-size: cover;
 }
 
-
-
-
 .bg-service-1{
     background-image: url(medias/bg-service-accueil.jpg);
     background-position: center;
     background-size: cover;
 }
-
 
 .bg-service-2{
     background-image: url(medias/bg-service-essais.jpg);
@@ -46,7 +42,6 @@
 
 .h-600-px{
     min-height: 600px;
-    
 }
 
 .h-500-px{
@@ -66,6 +61,8 @@
 @media (max-width: 575.98px) {
     .display-col-service-image{
         display: none;
+    }
+    .margin-div-sm{
     }
 
     .h-225-px-media{
@@ -110,7 +107,9 @@
     .h-225-px-media{
         min-height: 225px;
     }
+    
 }
+
 .margin-div{
     margin-bottom: 150px;
 
