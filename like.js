@@ -20,5 +20,4 @@ like.addEventListener("click",()=>{
 })
 window.addEventListener("load",()=>{
     chiffre.innerText=compteur
-
 })
