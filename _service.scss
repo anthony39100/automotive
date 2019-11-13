@@ -62,6 +62,10 @@
     margin: 137px 0;
 }
 
+.mb-137{
+    margin-bottom: 137px;
+}
+
 .py-137{
     padding: 137px 0;
 }
@@ -72,9 +76,19 @@
     .display-col-service-image{
         display: none;
     }
+
     .h-225-px-media{
         min-height: 225px;
     }
+
+    .my-137{
+        margin: 101px 0;
+    }
+    
+    .py-137{
+        padding: 101px 0;
+    }
+
     .font-size-15 {
         font-size: 20px;
     }
@@ -103,7 +117,14 @@
     }
     .h-225-px-media{
         min-height: 250px;
+    }
 
+    .my-137{
+        margin: 120px 0;
+    }
+    
+    .py-137{
+        padding: 120px 0;
     }
 }
 
