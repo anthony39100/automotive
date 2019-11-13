@@ -12,3 +12,16 @@
 .margin-div-sm{
     margin-bottom: 100px;
 }
+@media (max-width: 575.98px){
+    .margin-bottom-media{
+        margin-bottom: 50px;
+    }
+    .padding-media{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .margin-div-sm{
+        margin-bottom: 50px;
+    }
+
+}
