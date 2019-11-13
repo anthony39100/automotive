@@ -3,29 +3,34 @@
     background-color: #000000;
 
 }
+
 .image-taille{
     width: 1920px;
     height: 1080px;
 }
+
+.bg-carousel-1{
+    background-image: url("medias/image-indicator-1-header.jpg") ;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    } 
+
 .bg-carousel-2{
-    background-image: url("medias/image-indicator-2-header.jpg") ;
+    background-image: url("medias/image-indicator-2-header.jpg");
     background-size: cover;
     background-position: center;
     height: 700px;
     }
-    .bg-carousel-3{
-        background-image: url("medias/image-Indicator-3-header.jpg") ;
+
+.bg-carousel-3{
+        background-image: url("medias/image-indicator-3-header.jpg");
         background-size: cover;
         background-position: center;
         height: 700px;
         }
-    .bg-carousel-1{
-        background-image: url("medias/image-indicator-1-header.jpg") ;
-        background-size: cover;
-        background-position: center;
-        height: 700px;
-        } 
-        .padding-top{
+
+.padding-top{
             padding-top: 300px;
         }
         
