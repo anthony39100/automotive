@@ -62,9 +62,6 @@
     .display-col-service-image{
         display: none;
     }
-    .margin-div-sm{
-    }
-
     .h-225-px-media{
         min-height: 225px;
     }
@@ -94,7 +91,8 @@
         display: none;
     }
     .h-225-px-media{
-        min-height: 225px;
+        min-height: 250px;
+
     }
    
 }
@@ -112,6 +110,12 @@
 
 .margin-div{
     margin-bottom: 150px;
+}
+
+@media (max-width: 575.98px){
+    .margin-div{
+        margin-bottom: 10px;
+    }
 }
 
 
