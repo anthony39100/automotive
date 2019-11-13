@@ -58,6 +58,14 @@
     min-height: 300px;
 }
 
+.my-137{
+    margin: 137px 0;
+}
+
+.py-137{
+    padding: 137px 0;
+}
+
 
 // Extra small devices (portrait phones, less than 576px)
 @media (max-width: 575.98px) {
@@ -81,6 +89,7 @@
     .bg-carousel-1 {
     height: 200px;
   }
+
   .padding-top {
     padding-top: 50px;
   }
@@ -96,7 +105,6 @@
         min-height: 250px;
 
     }
-   
 }
 
 @media (min-width: 768px) and (max-width: 991.98px) {
@@ -114,6 +122,7 @@
 }
 
 @media (max-width: 575.98px){
+    
     .margin-div{
         margin-bottom: 10px;
     }
