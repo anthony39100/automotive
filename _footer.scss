@@ -6,7 +6,7 @@ h1,h2 {
 }
 
 #map{ /* la carte DOIT avoir une hauteur sinon elle n'apparaît pas */
-    height:600px;
+    height:400px;
     }
 
 .bg-footer{
@@ -19,3 +19,9 @@ h1,h2 {
 {
     background-color: rgba(0, 0, 0, 0.80) !important;
 }
+.button-like{
+    background-color: blue;
+    width: 50px;
+    text-align:center ;
+    cursor: pointer;
+  }

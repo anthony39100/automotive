@@ -16,15 +16,11 @@
     background-size: cover;
 }
 
-
-
-
 .bg-service-1{
     background-image: url(medias/bg-service-accueil.jpg);
     background-position: center;
     background-size: cover;
 }
-
 
 .bg-service-2{
     background-image: url(medias/bg-service-essais.jpg);
@@ -48,12 +44,12 @@
     min-height: 600px;
 }
 
-
-
-
 .h-500-px{
     min-height: 500px;
+}
 
+.h-400-px{
+    min-height: 400px;
 }
 
 .h-300-px{
@@ -66,34 +62,56 @@
     .display-col-service-image{
         display: none;
     }
-    
-.bg-carousel-2 {
+    .margin-div-sm{
+    }
 
+    .h-225-px-media{
+        min-height: 225px;
+    }
+
+    .bg-carousel-2 {
     height: 200px;
   }
   
-  .bg-carousel-3 {
-
+    .bg-carousel-3 {
     height: 200px;
   }
   
-  .bg-carousel-1 {
- 
+    .bg-carousel-1 {
     height: 200px;
+  }
+  .padding-top {
+    padding-top: 50px;
+  }
+  .font-size-15{
+    font-size: 10px;
   }
 }
 
 // Small devices (landscape phones, less than 768px)
-@media (min-width: 576) and (max-width: 767.98px) { 
+@media (min-width: 576px)and(max-width: 767.98px) { 
     .display-col-service-image{
         display: none;
     }
+    .h-225-px-media{
+        min-height: 225px;
+    }
+   
 }
 
-@media (min-width: 768) and (max-width: 991.98px) {
+@media (min-width: 768px) and (max-width: 991.98px) {
     .display-col-service-image{
         display: none;
     }
+
+    .h-225-px-media{
+        min-height: 225px;
+    }
+    
+}
+
+.margin-div{
+    margin-bottom: 150px;
 }
 
 
