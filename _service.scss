@@ -9,7 +9,9 @@
     background-position: center;
     background-size: cover;
 }
-
+.font-size-15{
+    font-size: 30px;
+  }
 .bg-service-4{
     background-image: url("medias/bg-mercedes-rouge.jpg");
     background-position: center;
@@ -17,7 +19,7 @@
 }
 
 .bg-service-1{
-    background-image: url(medias/bg-service-accueil.jpg);
+    background-image: url(medias/walpaper.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -62,13 +64,12 @@
     .display-col-service-image{
         display: none;
     }
-    .margin-div-sm{
-    }
-
     .h-225-px-media{
         min-height: 225px;
     }
-
+    .font-size-15 {
+        font-size: 20px;
+    }
     .bg-carousel-2 {
     height: 200px;
   }
@@ -83,9 +84,7 @@
   .padding-top {
     padding-top: 50px;
   }
-  .font-size-15{
-    font-size: 10px;
-  }
+
 }
 
 // Small devices (landscape phones, less than 768px)
@@ -94,7 +93,8 @@
         display: none;
     }
     .h-225-px-media{
-        min-height: 225px;
+        min-height: 250px;
+
     }
    
 }
@@ -111,6 +111,12 @@
 
 .margin-div{
     margin-bottom: 150px;
+}
+
+@media (max-width: 575.98px){
+    .margin-div{
+        margin-bottom: 10px;
+    }
 }
 
 
